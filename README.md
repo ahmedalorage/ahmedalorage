@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmedalorage
-- 👀 I’m interested in Full stack, 
+- 👀 I’m interested in Full stack, Programing, AI , Data Science, Automation 
 - 🌱 I’m currently learning DevOps, Lunix, C# & cloud Architecture 
-- 💞️ I’m looking to collaborate on C# Prograiming and DevOps 
+- 💞️ I’m looking to collaborate on C#, Paython, Prograiming and DevOps, Odoo ERP,  
 - 📫 How to reach me through my email "Ahmedalorage@gmail.com"
 
 <!---
